@@ -2,3 +2,7 @@
 function paragraphSelector(){
   
 }
+
+function lastImageSelector(){
+  
+}
